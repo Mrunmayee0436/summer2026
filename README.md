@@ -1,11 +1,21 @@
-# Summer 2026
+# Summer 2026 DSA Journey
 
-My coding practice repository.
+This repository contains my Data Structures and Algorithms practice solutions in Java.
 
-## Languages
-- Java
+## Topics Covered
+- Arrays
+- Strings
+- Linked Lists
+- Stacks & Queues
+- Trees & Graphs
+- Dynamic Programming
+- Greedy Algorithms
+- Backtracking
 
-## Goals
-- Solve LeetCode problems
-- Improve DSA
-- Build projects
+## Goal
+- Solve 300+ DSA problems
+- Strengthen problem-solving skills
+- Prepare for placements and coding interviews
+
+## Language
+Java
